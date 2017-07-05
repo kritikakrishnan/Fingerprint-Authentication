@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/Users/kritikagopalakrishnan/GitHub/TouristGuide/FingerprintAuthentication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\9202c65955f84151498364771a214627e06ce0c6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="184f6a09f89c63b5dfe6669c8c185a827d124e92">
-        <dex dex="/Users/kritikagopalakrishnan/GitHub/TouristGuide/FingerprintAuthentication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70bb7d4787dce263d6c4626646c4e75b20430c76/classes.dex" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef71b4cd886925d9f33be313a4c06a87f90ddea6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kritikagopalakrishnan/GitHub/TouristGuide/FingerprintAuthentication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\7ebe611ebdc22aadb744767f6575a4469b660a75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70256d55ae8ba60b7a614cc2549e0b7a6dd2894c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\a550bf031415c9d8844bfbdebbe10c63e5e08de4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ace039008a4386ae3619c102987f4ce4f8645f57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\8d4fd435e60fc3450a14c6ae9e8e3de8768c559c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c04bc2bda7cbcf960c558c547111cc49272a5ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\67e01b47ec73dda0b75c4697c22a67cc75e297f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2384ce1d14fb1272211e249175bbff1761f906d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\1a659f05933027a76293b5622f7b5ea0fdcd9270\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_320f1bb5d1a8586f75ddc7a3a4b88528ac1dc35f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta5\constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta5_9b6ee04b831af1963e6110c58e842c802c380850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_cc38c045ff4a4bb801966c78da791d5446044cf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d618427f7cd57330d3e879d2645b3968aa591e4">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b412b1a7cad0f1b79bc77319416c9b36064c57f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/kritikagopalakrishnan/GitHub/TouristGuide/FingerprintAuthentication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_160845322930827531fb303e9c48d7110ca3c747/classes.dex" />
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c8ba2037b04700ea7afacb9c2532f9aa8186781e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\a4a0c3af081d4694c187fcdf01b580762b9fbcdf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e15002575f68ed65b6759d2a85eaea3ecfb16e5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\e3d1a5c83536f1a9ff740e92fb2cc0a97ab8080d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a16a50fbe8f91f0677d05f12cdc2901a662f74a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\9abcec93580e23ea7af60d304c522063ac829fd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ad449d674a7d55e03caee6329d2642a1b8ea005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\M G KRISHNAN\.android\build-cache\92ce5d317adfed5aff26d46011e6e6e3c591db0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\M G KRISHNAN\Desktop\GitHub\Fingerprint-Authentication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4525e8ab6d90b1e1fa869b6ab796c818d8bb128\classes.dex" />
     </item>
 
 </items>
